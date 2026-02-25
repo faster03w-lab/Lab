@@ -1,0 +1,9 @@
+﻿  laba_2.cpp
+C:\Users\faste\OneDrive\Desktop\potionlab\laba_2\laba_2\laba_2.cpp(138,59): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\faste\OneDrive\Desktop\potionlab\laba_2\laba_2\laba_2.cpp(138,59): warning C4267:         with
+C:\Users\faste\OneDrive\Desktop\potionlab\laba_2\laba_2\laba_2.cpp(138,59): warning C4267:         [
+C:\Users\faste\OneDrive\Desktop\potionlab\laba_2\laba_2\laba_2.cpp(138,59): warning C4267:             _Ty=int
+C:\Users\faste\OneDrive\Desktop\potionlab\laba_2\laba_2\laba_2.cpp(138,59): warning C4267:         ]
+  Main.cpp
+  Создание кода...
+  laba_2.vcxproj -> C:\Users\faste\OneDrive\Desktop\potionlab\laba_2\x64\Debug\laba_2.exe
